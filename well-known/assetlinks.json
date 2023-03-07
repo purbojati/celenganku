@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.celengan.app.debug",
+               "sha256_cert_fingerprints": ["33:26:9B:E2:41:EA:0F:34:10:0D:1B:DA:37:39:0E:31:7A:4A:FB:34:EC:23:86:4C:49:44:9E:20:7A:0E:BC:04"] }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.celengan.app",
+               "sha256_cert_fingerprints": ["33:26:9B:E2:41:EA:0F:34:10:0D:1B:DA:37:39:0E:31:7A:4A:FB:34:EC:23:86:4C:49:44:9E:20:7A:0E:BC:04"] }
+}]
